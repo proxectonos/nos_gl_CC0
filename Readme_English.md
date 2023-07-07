@@ -1,7 +1,7 @@
 # nos_gl_CC0
 Copyright-free (CC0) sentences in Galician, collected by [Proxecto Nós](nos.gal) in order to contribute to the text corpus of [Mozilla Common Voice](https://commonvoice.mozilla.org/gl/).
 
-The rights to the original sentences were [transferred]() to the University of Santiago de Compostela (USC)'s Proxecto Nós by public or private entities, to whom we are grateful for their contribution.
+The rights to the original sentences were [transferred](https://github.com/proxectonos/nos_gl_CC0/tree/main/CC0_Waiver) to the University of Santiago de Compostela (USC)'s Proxecto Nós by public or private entities, to whom we are grateful for their contribution.
 
 On this material, Proxecto Nos applied a series of transformations which resulted in the corpora herein mentioned. The original sentences were filtered for length and, where necessary, adapted to meet the Common Voice requirements (normalization of numbers, abbreviations, and acronyms, foreign word elimination, appropriateness, etc.).
 
