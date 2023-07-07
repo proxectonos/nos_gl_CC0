@@ -4,7 +4,7 @@ English text [here](https://github.com/proxectonos/nos_gl_CC0/blob/main/Readme_E
 
 Frases con licenza libre (CC0) en galego, recollidas polo [Proxecto Nós](nos.gal) co fin de alimentar o corpus textual de [Mozilla Common Voice](https://commonvoice.mozilla.org/gl/).
 
-As frases foron [cedidas](...) por diferentes institucións públicas ou privadas, ás que agradecemos a colaboración. 
+As frases foron [cedidas](https://github.com/proxectonos/nos_gl_CC0/tree/main/CC0_Waiver) por diferentes institucións públicas ou privadas, ás que agradecemos a colaboración. 
 
 Sobre este material, dentro do marco do Proxecto Nós, levouse a cabo unha serie de transformacións: segmentación das frases orixinais, filtrado pola lonxitude e, no seu caso, adaptación para cumprir cos requisitos de Common Voice (normalización de números, abreviacións e siglas, eliminación de palabras estranxeiras, adecuación de contido etc.). 
 
