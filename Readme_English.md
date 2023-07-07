@@ -26,6 +26,6 @@ The resulting corpora are the following:
 140.823 sentences extracted from the 2012-2022 issues of the newspaper [Nós Diario](https://www.nosdiario.gal/).
 
 ## PRAZA.GAL CORPUS
-### [cv_praza.txt]()
+### [cv_praza.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_praza.txt)
 
 89.995 sentences extracted from the 2012-2022 issues of the newspaper [Praza.gal](https://praza.gal/). 
