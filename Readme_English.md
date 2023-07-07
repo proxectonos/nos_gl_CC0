@@ -5,7 +5,7 @@ The rights to the original sentences were [transferred]() to the University of S
 
 On this material, Proxecto Nos applied a series of transformations which resulted in the corpora herein mentioned. The original sentences were filtered for length and, where necessary, adapted to meet the Common Voice requirements (normalization of numbers, abbreviations, and acronyms, foreign word elimination, appropriateness, etc.).
 
-Preprocessing and processing of the corpora was done using dedicated scripts available [here](...), as well as the [Sentence Extractor](https://github.com/common-voice/cv-sentence-extractor) tool. 
+Preprocessing and processing of the corpora was done using dedicated scripts available [here]([...](https://github.com/proxectonos/nos_gl_CC0/tree/main/Scripts), as well as the [Sentence Extractor](https://github.com/common-voice/cv-sentence-extractor) tool. 
 
 The resulting corpora are the following:
 
