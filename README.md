@@ -1,4 +1,4 @@
-English text [here]()
+English text [here](https://github.com/proxectonos/nos_gl_CC0/blob/main/Readme_English.md)
 
 # nos_gl_CC0
 
