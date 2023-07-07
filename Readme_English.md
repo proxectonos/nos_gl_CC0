@@ -10,7 +10,7 @@ Preprocessing and processing of the corpora was done using dedicated scripts ava
 The resulting corpora are the following:
 
 ## PG CORPUS
-### [cv_PG_anon.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_PG_anon.txt)
+### [cv_pg_anon.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_pg_anon.txt)
 
 166.337 sentences extracted from transcrips of the debates of the [Galician Parliament (Parlamento de Galicia)](https://www.parlamentodegalicia.gal/) over a 7-year timespan (2015-2022). The Galician Parliament allows public access to the original material and authorizes its reproduction provided the source is aknowledged. Apart from the transformations mentioned above, the names present in the corpus were anonymised.
 
