@@ -28,6 +28,6 @@ Os corpus resultantes son os seguintes:
 140.823 frases extraídas dos números do periódico [Nós Diario](https://www.nosdiario.gal/) publicados entre os anos 2012-2022.
 
 ## CORPUS PRAZA.GAL 
-### [cv_praza.txt]()
+### [cv_praza.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_praza.txt)
 
 89.995 frases extraídas dos números do periódico [Praza.gal](https://praza.gal/) publicados entre os anos 2012-2022. 
