@@ -2,7 +2,7 @@ English text [here](https://github.com/proxectonos/nos_gl_CC0/blob/main/Readme_E
 
 # nos_gl_CC0
 
-Frases con licenza libre [(CC0)]((https://creativecommons.org/publicdomain/zero/1.0/legalcode)) en galego, recollidas polo [Proxecto Nós](nos.gal) co fin de alimentar o corpus textual de [Mozilla Common Voice](https://commonvoice.mozilla.org/gl/).
+Frases con licenza libre [(CC0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode) en galego, recollidas polo [Proxecto Nós](nos.gal) co fin de alimentar o corpus textual de [Mozilla Common Voice](https://commonvoice.mozilla.org/gl/).
 
 As frases foron cedidas á Universidade de Santiago de Compostela por diferentes institucións públicas ou privadas, ás que agradecemos a colaboración. 
 
