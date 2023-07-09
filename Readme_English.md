@@ -7,7 +7,7 @@ On this material, Proxecto Nos applied a series of transformations which resulte
 
 Preprocessing and processing of the corpora was done using dedicated scripts available [here](https://github.com/proxectonos/nos_gl_CC0/tree/main/Scripts), as well as the [Sentence Extractor](https://github.com/common-voice/cv-sentence-extractor) tool. 
 
-The resulting corpora, published here [copyright-free]((https://github.com/proxectonos/nos_gl_CC0/tree/main/CC0_Waiver), are the following:
+The resulting corpora, published here [copyright-free](https://github.com/proxectonos/nos_gl_CC0/tree/main/CC0_Waiver), are the following:
 
 ## PG CORPUS
 ### [cv_pg_anon.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_pg_anon.txt)
