@@ -4,13 +4,13 @@ English text [here](https://github.com/proxectonos/nos_gl_CC0/blob/main/Readme_E
 
 Frases con licenza libre (CC0) en galego, recollidas polo [Proxecto Nós](nos.gal) co fin de alimentar o corpus textual de [Mozilla Common Voice](https://commonvoice.mozilla.org/gl/).
 
-As frases foron [cedidas](https://github.com/proxectonos/nos_gl_CC0/tree/main/CC0_Waiver) por diferentes institucións públicas ou privadas, ás que agradecemos a colaboración. 
+As frases foron cedidas á Universidade de Santiago de Compostela por diferentes institucións públicas ou privadas, ás que agradecemos a colaboración. 
 
 Sobre este material, dentro do marco do Proxecto Nós, levouse a cabo unha serie de transformacións: segmentación das frases orixinais, filtrado pola lonxitude e, no seu caso, adaptación para cumprir cos requisitos de Common Voice (normalización de números, abreviacións e siglas, eliminación de palabras estranxeiras, adecuación de contido, corrección gramatical etc.). 
 
 Para o preprocesamento e procesamento dos corpus empregáronse os scripts dispoñibles [aquí](https://github.com/proxectonos/nos_gl_CC0/tree/main/Scripts), xunto coa ferramenta [Sentence Extractor](https://github.com/common-voice/cv-sentence-extractor).
 
-Os corpus resultantes son os seguintes:
+Os corpus resultantes, publicados aquí [de forma libre de dereitos](https://github.com/proxectonos/nos_gl_CC0/tree/main/CC0_Waiver) son os seguintes:
 
 ## CORPUS PG 
 ### [cv_pg_anon.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_pg_anon.txt)
