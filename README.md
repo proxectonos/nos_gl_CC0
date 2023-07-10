@@ -10,7 +10,7 @@ Sobre este material, dentro do marco do Proxecto Nós, levouse a cabo unha serie
 
 Para o preprocesamento e procesamento dos corpus empregáronse os scripts dispoñibles [aquí](https://github.com/proxectonos/nos_gl_CC0/tree/main/Scripts), xunto coa ferramenta [Sentence Extractor](https://github.com/common-voice/cv-sentence-extractor).
 
-Os corpus resultantes, publicados aquí [de forma libre de dereitos](https://github.com/proxectonos/nos_gl_CC0/tree/main/CC0_Waiver) son os seguintes:
+Os corpus resultantes, publicados aquí [de forma libre de dereitos](https://github.com/proxectonos/nos_gl_CC0/tree/main/CC0_Waiver), son os seguintes:
 
 ## CORPUS PG 
 ### [cv_pg_anon.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_pg_anon.txt)
