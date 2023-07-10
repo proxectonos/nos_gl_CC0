@@ -23,7 +23,7 @@ sed -i 's/ / /g' "$filename"
 sed -i 's/—/-/g' "$filename"
 
 # Replace all double quotation marks with straight double quotation marks
-sed -i -e 's/«/"/g' -e 's/»/"/g' -e 's/“/"/g' -e 's/”/"/g' -e 's/„/"/g' -e 's/“/"/g' -e 's/„/"/g' -e 's/‟/"/g' -e 's/‹/"/g' -e 's/›/"/g "${filename}_lines_14.txt"
+sed -i -e 's/«/"/g' -e 's/»/"/g' -e 's/“/"/g' -e 's/”/"/g' -e 's/„/"/g' -e 's/“/"/g' -e 's/„/"/g' -e 's/‟/"/g' -e 's/‹/"/g' -e 's/›/"/g' "${filename}_lines_14.txt"
 
 # Line splitting (excluding cases of single capital letter)
 sed 's/\([.!?—]\) \([[:upper:]]\)/\1\n\2/g' "$filename" > "${filename}_lines.txt"
@@ -85,3 +85,4 @@ sed -i -r '^.*[^\.!\?:\"]$' "${filename}_preprocessed.txt"
 # Check that all sentences are 14 words or fewer
 # grep -E '\b(\w+\b\s+){14,}\w+[.?!]' *.txt > longer.txt
 
+echo "Finished"
