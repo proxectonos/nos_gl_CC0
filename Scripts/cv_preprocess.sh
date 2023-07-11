@@ -80,7 +80,7 @@ grep -v -f "${filename}_odd_quotes.txt" "${filename}_lines_14.txt" > "${filename
 
 # Extract lines ending in lowercase not followed by punctuation and delete from source file
 grep -E '^.*[^\.!\?:\"]$' "${filename}_preprocessed.txt" > "${filename}_finalpunct.txt"
-sed -i -r '^.*[^\.!\?:\"]$' "${filename}_preprocessed.txt"
+sed -i -r '/^.*[^\.!\?:\"]$/d' "${filename}_preprocessed.txt"
 
 # Check that all sentences are 14 words or fewer
 # grep -E '\b(\w+\b\s+){14,}\w+[.?!]' "${filename}_preprocessed.txt" > longer.txt
