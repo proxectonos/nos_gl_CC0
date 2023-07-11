@@ -83,6 +83,6 @@ grep -E '^.*[^\.!\?:\"]$' "${filename}_preprocessed.txt" > "${filename}_finalpun
 sed -i -r '^.*[^\.!\?:\"]$' "${filename}_preprocessed.txt"
 
 # Check that all sentences are 14 words or fewer
-# grep -E '\b(\w+\b\s+){14,}\w+[.?!]' *.txt > longer.txt
+# grep -E '\b(\w+\b\s+){14,}\w+[.?!]' "${filename}_preprocessed.txt" > longer.txt
 
 echo "Finished"
