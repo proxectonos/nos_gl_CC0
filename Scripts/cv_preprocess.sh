@@ -1,10 +1,7 @@
-#!/bin/bash -x
+#!/bin/bash
 
 # Get the name of the source file from user input
 read -p "Enter the name of the source file: " filename
-
-# Redirect stderr to a log file
-exec 2> "${filename}_error.log"
 
 # Leading and trailing space/tab deletion
 sed -i 's/^[ \t]*//' "$filename"
