@@ -1,46 +1,46 @@
 import re
 import os
 
-patron_permitido = re.compile(r'^[A-ZÁÉÍÓÚÑa-záéíóúñüï.,:;?¿!\'"¡\s\-\─\−–]+$')
+allowed_patterns = re.compile(r'^[A-ZÁÉÍÓÚÑa-záéíóúñüï.,:;?¿!\'"¡\s\-\─\−–]+$')
 
-# Solicitar la ubicación de la carpeta o archivo de entrada
-entrada = input("Ingrese la ubicación de la carpeta o archivo de entrada: ")
+# Get the name of the source file from user input
+entrada = input("Enter the name of the source file/folder: ")
 
-# Solicitar la ubicación de la carpeta para archivos válidos
-carpeta_validas = input("Ingrese la ubicación de la carpeta para archivos válidos: ")
+# Request the name of the "Valid files" folder
+valid_dir = input("Enter the path of the Valid files folder: ")
 
-# Solicitar la ubicación de la carpeta para archivos inválidos
-carpeta_invalidas = input("Ingrese la ubicación de la carpeta para archivos inválidos: ")
+# Request the name of the "Invalid files" folder
+invalid_dir = input("Enter the path of the Invalid files folder: ")
 
-# Crear las carpetas de salida si no existen
-os.makedirs(carpeta_validas, exist_ok=True)
-os.makedirs(carpeta_invalidas, exist_ok=True)
+# Create output folders if necessary
+os.makedirs(valid_dir, exist_ok=True)
+os.makedirs(invalid_dir, exist_ok=True)
 
-def procesar_archivo(archivo_entrada, archivo_validas, archivo_invalidas):
-    with open(archivo_entrada, 'r', encoding='utf-8') as file_entrada, \
-         open(archivo_validas, 'w', encoding='utf-8') as file_validas, \
-         open(archivo_invalidas, 'w', encoding='utf-8') as file_invalidas:
+def process_file(input_file, valid_file, invalid_file):
+    with open(input_file, 'r', encoding='utf-8') as file_entrada, \
+         open(valid_file, 'w', encoding='utf-8') as file_validas, \
+         open(invalid_file, 'w', encoding='utf-8') as file_invalidas:
 
-        for linea in file_entrada:
-            linea = linea.strip()
-            if patron_permitido.match(linea):
-                file_validas.write(f"{linea}\n")
+        for line in file_entrada:
+            line = line.strip()
+            if allowed_patterns.match(line):
+                file_validas.write(f"{line}\n")
             else:
-                file_invalidas.write(f"{linea}\n")
+                file_invalidas.write(f"{line}\n")
 
-# Verificar si la entrada es un archivo o una carpeta
+# Check if the input is a file or a folder
 if os.path.isfile(entrada):
-    # Procesar un archivo
+    # Process a file
     nombre_archivo = os.path.basename(entrada)
-    archivo_validas = os.path.join(carpeta_validas, f'{nombre_archivo}_validas.txt')
-    archivo_invalidas = os.path.join(carpeta_invalidas, f'{nombre_archivo}_invalidas.txt')
-    procesar_archivo(entrada, archivo_validas, archivo_invalidas)
+    valid_file = os.path.join(valid_dir, f'{nombre_archivo}_validas.txt')
+    invalid_file = os.path.join(invalid_dir, f'{nombre_archivo}_invalidas.txt')
+    process_file(entrada, valid_file, invalid_file)
 else:
-    # Procesar una carpeta
+    # Process a folder
     for archivo_nombre in os.listdir(entrada):
-        archivo_entrada = os.path.join(entrada, archivo_nombre)
-        archivo_validas = os.path.join(carpeta_validas, f'{archivo_nombre}_validas.txt')
-        archivo_invalidas = os.path.join(carpeta_invalidas, f'{archivo_nombre}_invalidas.txt')
-        procesar_archivo(archivo_entrada, archivo_validas, archivo_invalidas)
+        input_file = os.path.join(entrada, archivo_nombre)
+        valid_file = os.path.join(valid_dir, f'{archivo_nombre}_validas.txt')
+        invalid_file = os.path.join(invalid_dir, f'{archivo_nombre}_invalidas.txt')
+        process_file(input_file, valid_file, invalid_file)
 
-print("Proceso completado. Archivos creados en las carpetas proporcionadas.")
+print("Done.")
