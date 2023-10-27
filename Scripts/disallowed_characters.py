@@ -43,4 +43,23 @@ else:
         invalid_file = os.path.join(invalid_dir, f'{archivo_nombre}_invalidas.txt')
         process_file(input_file, valid_file, invalid_file)
 
-print("Done.")
+print("Done processing. Creating the list of disallowed characters...")
+
+# Create a list of characters identified in the "_invalidas.txt" file
+invalid_characters = set()
+for archivo_nombre in os.listdir(invalid_dir):
+    if archivo_nombre.endswith("_invalidas.txt"):
+        invalid_file = os.path.join(invalid_dir, archivo_nombre)
+        with open(invalid_file, 'r', encoding='utf-8') as file_invalidas:
+            for line in file_invalidas:
+                for char in line.strip():
+                    if not allowed_patterns.match(char):
+                        invalid_characters.add(char)
+
+# Save the disallowed characters to a file
+disallowed_characters_file = "disallowed_characters_list.txt"
+with open(disallowed_characters_file, 'w', encoding='utf-8') as file_disallowed:
+    for char in invalid_characters:
+        file_disallowed.write(f"{char}\n")
+
+print("Disallowed characters written to 'disallowed_characters_list.txt'.")
