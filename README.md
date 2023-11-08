@@ -15,7 +15,7 @@ Os corpus resultantes, publicados aquí [de forma libre de dereitos](https://git
 ## CORPUS PG 
 ### [cv_pg_anon.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_pg_anon.txt)
 
-166.231 frases extraídas das transcricions dos debates do [Parlamento de Galicia](https://www.parlamentodegalicia.gal/) durante un periodo de 7 anos (2015-2022). O material orixinal e de acceso público e permite a reproduccion autorizada sempre que se cite a fonte. Ademais das transformacións mencionadas máis arriba, os nomes propios presentes neste corpus foron anonimizados.
+166.229 frases extraídas das transcricions dos debates do [Parlamento de Galicia](https://www.parlamentodegalicia.gal/) durante un periodo de 7 anos (2015-2022). O material orixinal e de acceso público e permite a reproduccion autorizada sempre que se cite a fonte. Ademais das transformacións mencionadas máis arriba, os nomes propios presentes neste corpus foron anonimizados.
 
 ## CORPUS CRTVG 
 ### [cv_tvg.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_tvg.txt)
@@ -25,9 +25,9 @@ Os corpus resultantes, publicados aquí [de forma libre de dereitos](https://git
 ## CORPUS NÓS DIARIO (SERMOS GALIZA) 
 ### [cv_nos_diario.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_nos_diario.txt)
 
-140.107 frases extraídas dos números do periódico [Nós Diario](https://www.nosdiario.gal/) publicados entre os anos 2012-2022.
+140.104 frases extraídas dos números do periódico [Nós Diario](https://www.nosdiario.gal/) publicados entre os anos 2012-2022.
 
 ## CORPUS PRAZA.GAL 
 ### [cv_praza.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_praza.txt)
 
-89.690 frases extraídas dos números do periódico [Praza.gal](https://praza.gal/) publicados entre os anos 2012-2022. 
+89.688 frases extraídas dos números do periódico [Praza.gal](https://praza.gal/) publicados entre os anos 2012-2022. 
