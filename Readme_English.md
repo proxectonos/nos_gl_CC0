@@ -12,7 +12,7 @@ The resulting corpora, published here [copyright-free](https://github.com/proxec
 ## PG CORPUS
 ### [cv_pg_anon.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_pg_anon.txt)
 
-166.231 sentences extracted from transcrips of the debates of the [Galician Parliament (Parlamento de Galicia)](https://www.parlamentodegalicia.gal/) over a 7-year timespan (2015-2022). The Galician Parliament allows public access to the original material and authorizes its reproduction provided the source is aknowledged. Apart from the transformations mentioned above, the names present in the corpus were anonymised.
+166.229 sentences extracted from transcrips of the debates of the [Galician Parliament (Parlamento de Galicia)](https://www.parlamentodegalicia.gal/) over a 7-year timespan (2015-2022). The Galician Parliament allows public access to the original material and authorizes its reproduction provided the source is aknowledged. Apart from the transformations mentioned above, the names present in the corpus were anonymised.
 
 ## CRTVG CORPUS
 ### [cv_tvg.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_tvg.txt)
@@ -23,9 +23,9 @@ The resulting corpora, published here [copyright-free](https://github.com/proxec
 ## NÓS DIARIO (SERMOS GALIZA) CORPUS
 ### [cv_nos_diario.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_nos_diario.txt)
 
-140.107 sentences extracted from the 2012-2022 issues of the newspaper [Nós Diario](https://www.nosdiario.gal/).
+140.104 sentences extracted from the 2012-2022 issues of the newspaper [Nós Diario](https://www.nosdiario.gal/).
 
 ## PRAZA.GAL CORPUS
 ### [cv_praza.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_praza.txt)
 
-89.690 sentences extracted from the 2012-2022 issues of the newspaper [Praza.gal](https://praza.gal/). 
+89.688 sentences extracted from the 2012-2022 issues of the newspaper [Praza.gal](https://praza.gal/). 
