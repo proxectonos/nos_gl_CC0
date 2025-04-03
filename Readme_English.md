@@ -29,3 +29,15 @@ The resulting corpora, published here [copyright-free](https://github.com/proxec
 ### [cv_praza.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_praza.txt)
 
 89.688 sentences extracted from the 2012-2022 issues of the newspaper [Praza.gal](https://praza.gal/). 
+
+## Funding and Acknowledgments
+This dataset was produced within the framework of the Proxecto Nós, funded by the Ministry for Digital Transformation and Public Administration and the Recovery, Transformation, and Resilience Plan – Funded by the European Union – NextGenerationEU, as part of the [Ilenia Project](https://proyectoilenia.es/) with reference 2022/TL22/00215336. It also received support from the Investigo program (PRTR - NextGenerationEU).
+
+We would like to thank the Parliament of Galicia, Nós Diario, Praza.gal, and the Corporación Radio e Televisión de Galicia (CRTVG) for providing the original data.
+
+## Cite this dataset
+If you use this dataset, please cite it as follows: 
+
+Adina Ioana Vladu, Noelia García Díaz, Marta Vázquez Abuín, Patricia Ramos Maceiras, María Janeiro Cerqueiro, Elisa Fernández Rei (2022). nos_gl_CC0 
+
+URL: (https://github.com/proxectonos/nos_gl_CC0)
