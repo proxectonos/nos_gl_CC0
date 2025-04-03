@@ -38,6 +38,6 @@ We would like to thank the Parliament of Galicia, Nós Diario, Praza.gal, and th
 ## Cite this dataset
 If you use this dataset, please cite it as follows: 
 
-Adina Ioana Vladu, Noelia García Díaz, Marta Vázquez Abuín, Patricia Ramos Maceiras, María Janeiro Cerqueiro, Elisa Fernández Rei (2022). nos_gl_CC0 
+Adina Ioana Vladu, Noelia García Díaz, Marta Vázquez Abuín, Patricia Ramos Maceiras, María Janeiro Cerqueiro, Cristian Canosa Pérez, José Javier Francisco Marini, Elisa Fernández Rei (2022). nos_gl_CC0 
 
 URL: (https://github.com/proxectonos/nos_gl_CC0)
