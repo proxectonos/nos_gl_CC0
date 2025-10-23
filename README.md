@@ -56,10 +56,10 @@ Subconxunto de 28.050 frases extraídas das definicións dos termos publicados n
 ## Financiación e agradecementos
 Este conxunto de datos produciuse no marco do Proxecto Nós, financiado polo Ministerio para a Transformación Dixital e da Función Pública e polo Plan de Recuperación, Transformación e Resiliencia – Financiado pola Unión Europea – NextGenerationEU, dentro do marco do [Proxecto Ilenia](https://proyectoilenia.es/) con referencia 2022/TL22/00215336. Tamén recibiu apoio desde o programa Investigo (PRTR - NextGenerationEU).
 
-Agradecemos a amabilidade do Parlamento de Galicia, Nós Diario, Praza.gal e a Corporación Radio e Televisión de Galicia (CRTVG) en proporcionar os datos orixinais.
+Agradecemos a amabilidade de todos os provedores de datos citados máis arriba en proporcionar os datos orixinais.
 
 ## Citar este dataset
 Se usas este dataset, cítanos como se indica a continuación:
-Adina Ioana Vladu, Noelia García Díaz, Marta Vázquez Abuín, Patricia Ramos Maceiras, María Janeiro Cerqueiro, Cristian Canosa Pérez, José Javier Francisco Marini, Elisa Fernández Rei (2022). nos_gl_CC0
+Adina Ioana Vladu, Noelia García Díaz, Daniel Fernández López, Marta Vázquez Abuín, Patricia Ramos Maceiras, María Janeiro Cerqueiro, Cristian Canosa Pérez, José Javier Francisco Marini, Elisa Fernández Rei (2024). nos_gl_CC0
 
 URL: (https://github.com/proxectonos/nos_gl_CC0)
