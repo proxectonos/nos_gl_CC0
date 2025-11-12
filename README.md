@@ -40,7 +40,7 @@ Máis de 190.000 frases extraídas de publicacións cedidas ao Proxecto Nós da 
 - 84.106 frases procedentes da Gran Enciclopedia Galega cedidas pola Xunta de Galicia e de textos cedidos polo Consello da Cultura Galega.
 - 7.388 frases procedentes de novelas cedidas pola editorial Hugín & Muñín.
 - 12.944 frases procedentes da publicación "Tempos Dixital" e a revista "A Trabe de Ouro" cedidas pola entidade Atlántica de Comunicación.
-- 28.949 frases procedentes de publicación cedidas pola Editorial Galaxia.
+- 28.949 frases procedentes de publicacións cedidas pola Editorial Galaxia.
 - 12.918 frases procedentes da revista "Tempo Exterior" e outros contidos da web cedidas polo Instituto Galego de Documentación (IGADI).
 - 692 frases procedentes do corpus CLUVI, cedidas polo Instituto da Lingua Galega (USC).
 - 14.492 frases procedentes de Publicacións da USC, concretamente da Colección de Clásicos.
