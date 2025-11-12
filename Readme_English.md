@@ -30,6 +30,32 @@ The resulting corpora, published here [copyright-free](https://github.com/proxec
 
 89.688 sentences extracted from the 2012-2022 issues of the newspaper [Praza.gal](https://praza.gal/). 
 
+## CORPUS CV_GL_2025
+
+Corpus formed by 305.322 sentences collected by the Proxecto Nós from various sources, wich is integrated by different subsets.
+
+### Corpus Mix Media
+
+More than 190.000 sentences extracted from publications ceded to the Proxecto Nós of the University of Santiago de Compostela through data transfer agreements:
+- 84.106 sentences from the Gran Enciclopedia Galega ceded by the Xunta de Galicia and from texts ceded by the Consello da Cultura Galega.
+- 7.988 sentences from novels ceded by the Hugín & Muñín publisher.
+- 12.944 sentences from the publication "Tempos Dixital" and the magazine "A Trabe de Ouro" ceded by the Atlántica Comunicación entity.
+- 28.949 sentences from publications ceded by the Editorial Galaxia.
+- 12.918 sentences from the magazine "Tempo Exterior" and other web content ceded by the Instituto Galego de Documentación (IGADI).
+- 692 sentences from CLUVI corpus, ceded by the Instituto da Lingua Galega (USC).
+- 14.492 sentences from USC Publications, specifically from the Classics Collection.
+- 6.873 sentences from USC Periodical Publications (magazines, articles, etc.)
+- 22.257 sentences from various sources.
+
+### Corpus Diario Dixital Que pasa na costa
+
+Subcorpus formed by 86.652 sentences extracted from the Costa da Morte Quepasanacosta Digital Newspaper.  
+
+### Corpus DRAG
+
+Subset of 28.051 sentences extracted from the definitions of terms published in the Dicionario da Real Academia (DRAG). 
+
+
 ## Funding and Acknowledgments
 This dataset was produced within the framework of the Proxecto Nós, funded by the Ministry for Digital Transformation and Public Administration and the Recovery, Transformation, and Resilience Plan – Funded by the European Union – NextGenerationEU, as part of the [Ilenia Project](https://proyectoilenia.es/) with reference 2022/TL22/00215336. It also received support from the Investigo program (PRTR - NextGenerationEU).
 
