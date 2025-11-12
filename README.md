@@ -33,25 +33,25 @@ Os corpus resultantes, publicados aquí [de forma libre de dereitos](https://git
 89.688 frases extraídas dos números do periódico [Praza.gal](https://praza.gal/) publicados entre os anos 2012-2022. 
 
 ## CORPUS CV_GL_2025
-Corpus formado por 305.326 frases recollidas polo Proxecto Nós de diversas fontes polo que está integrado, á súa vez, por diferentes subconxuntos. 
+Corpus formado por 305.322 frases recollidas polo Proxecto Nós de diversas fontes polo que está integrado, á súa vez, por diferentes subconxuntos. 
 
 ### Corpus Mix Media
-Máis de 168.000 frases extraídas de publicacións cedidas ao Proxecto Nós da Universidade de Santiago de Compostela mediante acordos de cesión de datos: 
+Máis de 190.000 frases extraídas de publicacións cedidas ao Proxecto Nós da Universidade de Santiago de Compostela mediante acordos de cesión de datos: 
 - 84.106 frases procedentes da Gran Enciclopedia Galega cedidas pola Xunta de Galicia e de textos cedidos polo Consello da Cultura Galega.
-- 7.387 frases procedentes de novelas cedidas pola editorial Hugín & Muñín.
-- 12.946 frases procedentes da publicación "Tempos Dixital" e a revista "A Trabe de Ouro" cedidas pola entidade Atlántica de Comunicación.
-- 28.948 frases procedentes de publicación cedidas pola Editorial Galaxia.
-- 12.921 frases procedentes da revista "Tempo Exterior" e outros contidos da web cedidas polo Instituto Galego de Documentación (IGADI).
+- 7.388 frases procedentes de novelas cedidas pola editorial Hugín & Muñín.
+- 12.944 frases procedentes da publicación "Tempos Dixital" e a revista "A Trabe de Ouro" cedidas pola entidade Atlántica de Comunicación.
+- 28.949 frases procedentes de publicación cedidas pola Editorial Galaxia.
+- 12.918 frases procedentes da revista "Tempo Exterior" e outros contidos da web cedidas polo Instituto Galego de Documentación (IGADI).
 - 692 frases procedentes do corpus CLUVI, cedidas polo Instituto da Lingua Galega (USC).
 - 14.492 frases procedentes de Publicacións da USC, concretamente da Colección de Clásicos.
-- 8.873 frases procedentes de Publicacións periódicas da USC (revistas, artigos, etc.).
+- 6.873 frases procedentes de Publicacións periódicas da USC (revistas, artigos, etc.).
 - 22.257 frases procedentes de diversas fontes. 
 
 ### Corpus Diario Dixital Que pasa na costa
-Subcorpus formado por 86.654 frases extraídas dos números de publicacións do Diario Dixital da Costa da Morte Quepasanacosta.
+Subcorpus formado por 86.652 frases extraídas dos números de publicacións do Diario Dixital da Costa da Morte Quepasanacosta.
 
 ### Corpus DRAG
-Subconxunto de 28.050 frases extraídas das definicións dos termos publicados no Dicionario da Real Academia Galega (DRAG). 
+Subconxunto de 28.051 frases extraídas das definicións dos termos publicados no Dicionario da Real Academia Galega (DRAG). 
 
 ## Financiación e agradecementos
 Este conxunto de datos produciuse no marco do Proxecto Nós, financiado polo Ministerio para a Transformación Dixital e da Función Pública e polo Plan de Recuperación, Transformación e Resiliencia – Financiado pola Unión Europea – NextGenerationEU, dentro do marco do [Proxecto Ilenia](https://proyectoilenia.es/) con referencia 2022/TL22/00215336. Tamén recibiu apoio desde o programa Investigo (PRTR - NextGenerationEU).
