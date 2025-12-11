@@ -1,5 +1,5 @@
 # nos_gl_CC0
-Copyright-free [(CC0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode) sentences in Galician, collected by [Proxecto Nós](nos.gal) in order to contribute to the text corpus of [Mozilla Common Voice](https://commonvoice.mozilla.org/gl/).
+Copyright-free [(CC0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode) 868.294 sentences in Galician, collected by [Proxecto Nós](nos.gal) in order to contribute to the text corpus of [Mozilla Common Voice](https://commonvoice.mozilla.org/gl/).
 
 The rights to the original sentences were transferred to the University of Santiago de Compostela (USC) by public or private entities, to whom we are grateful for their contribution.
 
