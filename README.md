@@ -48,6 +48,7 @@ Máis de 190.000 frases extraídas de publicacións cedidas ao Proxecto Nós da 
 - 22.257 frases procedentes de diversas fontes. 
 
 ### Corpus Diario Dixital Que pasa na costa
+### [Quepasanacosta.txt](
 Subcorpus formado por 86.652 frases extraídas dos números de publicacións do Diario Dixital da Costa da Morte Quepasanacosta.
 
 ### Corpus DRAG
