@@ -13,22 +13,22 @@ Para o preprocesamento e procesamento dos corpus empregáronse os scripts dispo�
 Os corpus resultantes, publicados aquí [de forma libre de dereitos](https://github.com/proxectonos/nos_gl_CC0/tree/main/CC0_Waiver), son os seguintes:
 
 ## CORPUS PG 
-### [cv_pg_anon.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_PG_anon.txt)
+### [cv_pg_anon.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_PG_anon.txt)
 
 166.229 frases extraídas das transcricions dos debates do [Parlamento de Galicia](https://www.parlamentodegalicia.gal/) durante un periodo de 7 anos (2015-2022). O material orixinal e de acceso público e permite a reproduccion autorizada sempre que se cite a fonte. Ademais das transformacións mencionadas máis arriba, os nomes propios presentes neste corpus foron anonimizados.
 
 ## CORPUS CRTVG 
-### [cv_tvg.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_tvg.txt)
+### [cv_tvg.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_tvg.txt)
 
 166.951 frases extraídas dos guións dos programas de informativos diarios da [Televisión de Galicia (TVG)](http://www.crtvg.es/) entre os anos 2019-2022. 
 
 ## CORPUS NÓS DIARIO (SERMOS GALIZA) 
-### [cv_nos_diario.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_nos_diario.txt)
+### [cv_nos_diario.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_nos_diario.txt)
 
 140.104 frases extraídas dos números do periódico [Nós Diario](https://www.nosdiario.gal/) publicados entre os anos 2012-2022.
 
 ## CORPUS PRAZA.GAL 
-### [cv_praza.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_praza.txt)
+### [cv_praza.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_praza.txt)
 
 89.688 frases extraídas dos números do periódico [Praza.gal](https://praza.gal/) publicados entre os anos 2012-2022. 
 
@@ -37,22 +37,22 @@ Corpus formado por 305.322 frases recollidas polo Proxecto Nós de diversas font
 
 ### Corpus Mix Media
 Máis de 190.000 frases extraídas de publicacións cedidas ao Proxecto Nós da Universidade de Santiago de Compostela mediante acordos de cesión de datos: 
-- 84.106 frases procedentes da Gran Enciclopedia Galega cedidas pola Xunta de Galicia e de textos cedidos polo Consello da Cultura Galega.
-- 7.388 frases procedentes de novelas cedidas pola editorial Hugín & Muñín.
-- 12.944 frases procedentes da publicación "Tempos Dixital" e a revista "A Trabe de Ouro" cedidas pola entidade Atlántica de Comunicación.
-- 28.949 frases procedentes de publicacións cedidas pola Editorial Galaxia.
-- 12.918 frases procedentes da revista "Tempo Exterior" e outros contidos da web cedidas polo Instituto Galego de Documentación (IGADI).
-- 692 frases procedentes do corpus CLUVI, cedidas polo Instituto da Lingua Galega (USC).
-- 14.492 frases procedentes de Publicacións da USC, concretamente da Colección de Clásicos.
-- 6.873 frases procedentes de Publicacións periódicas da USC (revistas, artigos, etc.).
-- 22.257 frases procedentes de diversas fontes. 
+- 84.106 frases procedentes da Gran Enciclopedia Galega cedidas pola Xunta de Galicia e de textos cedidos polo [Consello da Cultura Galega](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_consello_da_cultura_galega.txt).
+- 7.388 frases procedentes de novelas cedidas pola [editorial Hugín & Muñín](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_editorial_hugin_munin.txt).
+- 12.944 frases procedentes da publicación ["Tempos Dixital" e a revista "A Trabe de Ouro"](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_tempos_dixital_trabe_de_ouro.txt) cedidas pola entidade Atlántica de Comunicación.
+- 28.949 frases procedentes de publicacións cedidas pola [Editorial Galaxia](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_editorial_galaxia.txt).
+- 12.918 frases procedentes da revista "Tempo Exterior" e outros contidos da web cedidas polo Instituto Galego de Documentación [(IGADI)](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_IGADI.txt).
+- 692 frases procedentes do corpus [CLUVI](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_CLUVI.txt), cedidas polo Instituto da Lingua Galega (USC).
+- 14.492 frases procedentes de [Publicacións da USC](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_publicaci%C3%B3ns_USC.txt), concretamente da Colección de Clásicos.
+- 6.873 frases procedentes de [Publicacións periódicas da USC (revistas, artigos, etc.)](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_publicacions_periodicas_USC.txt).
+- 22.257 frases procedentes de [varias fontes](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_corpus_varias_fontes.txt). 
 
 ### Corpus Diario Dixital Que pasa na costa
-### [cv_Quepasanacosta.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_Quepasanacosta.txt)
+### [cv_Quepasanacosta.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_quepasanacosta.txt)
 Subcorpus formado por 86.652 frases extraídas dos números de publicacións do Diario Dixital da Costa da Morte Quepasanacosta.
 
 ### Corpus DRAG
-### [cv_DRAG.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_DRAG.txt)
+### [cv_DRAG.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_DRAG.txt)
 Subconxunto de 28.051 frases extraídas das definicións dos termos publicados no Dicionario da Real Academia Galega (DRAG). 
 
 ## Financiación e agradecementos
