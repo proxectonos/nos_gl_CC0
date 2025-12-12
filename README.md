@@ -43,7 +43,7 @@ Máis de 190.000 frases extraídas de publicacións cedidas ao Proxecto Nós da 
 - 28.949 frases procedentes de publicacións cedidas pola [Editorial Galaxia](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_editorial_galaxia.txt).
 - 12.918 frases procedentes da revista "Tempo Exterior" e outros contidos da web cedidas polo Instituto Galego de Documentación [(IGADI)](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_IGADI.txt).
 - 692 frases procedentes do corpus [CLUVI](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_CLUVI.txt), cedidas polo Instituto da Lingua Galega (USC).
-- 14.492 frases procedentes de [Publicacións da USC](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_publicaci%C3%B3ns_USC.txt), concretamente da Colección de Clásicos.
+- 14.492 frases procedentes de [Publicacións da USC](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_publicacions_USC.txt), concretamente da Colección de Clásicos.
 - 6.873 frases procedentes de [Publicacións periódicas da USC (revistas, artigos, etc.)](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_publicacions_periodicas_USC.txt).
 - 22.257 frases procedentes de [varias fontes](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_corpus_varias_fontes.txt). 
 
