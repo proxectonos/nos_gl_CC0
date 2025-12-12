@@ -13,7 +13,7 @@ Para o preprocesamento e procesamento dos corpus empregáronse os scripts dispo�
 Os corpus resultantes, publicados aquí [de forma libre de dereitos](https://github.com/proxectonos/nos_gl_CC0/tree/main/CC0_Waiver), son os seguintes:
 
 ## CORPUS PG 
-### [cv_pg_anon.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_pg_anon.txt)
+### [cv_pg_anon.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_PG_anon.txt)
 
 166.229 frases extraídas das transcricions dos debates do [Parlamento de Galicia](https://www.parlamentodegalicia.gal/) durante un periodo de 7 anos (2015-2022). O material orixinal e de acceso público e permite a reproduccion autorizada sempre que se cite a fonte. Ademais das transformacións mencionadas máis arriba, os nomes propios presentes neste corpus foron anonimizados.
 
