@@ -52,7 +52,7 @@ Máis de 190.000 frases extraídas de publicacións cedidas ao Proxecto Nós da 
 Subcorpus formado por 86.652 frases extraídas dos números de publicacións do Diario Dixital da Costa da Morte Quepasanacosta.
 
 ### Corpus DRAG
-### [cv_DRAG.txt](
+### [cv_DRAG.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/cv_DRAG.txt)
 Subconxunto de 28.051 frases extraídas das definicións dos termos publicados no Dicionario da Real Academia Galega (DRAG). 
 
 ## Financiación e agradecementos
