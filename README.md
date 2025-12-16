@@ -55,6 +55,9 @@ Subcorpus formado por 86.652 frases extraídas dos números de publicacións do 
 ### [cv_DRAG.txt](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_DRAG.txt)
 Subconxunto de 28.051 frases extraídas das definicións dos termos publicados no Dicionario da Real Academia Galega (DRAG). 
 
+## Outros recursos
+No marco do Proxecto ILENIA, o Proxecto Nós tamén participou na creación do dataset multilingüe Escagleu que se pode consultar [aquí](https://huggingface.co/datasets/projecte-aina/escagleu-64k).
+
 ## Financiación e agradecementos
 Este conxunto de datos produciuse no marco do Proxecto Nós, financiado polo Ministerio para a Transformación Dixital e da Función Pública e polo Plan de Recuperación, Transformación e Resiliencia – Financiado pola Unión Europea – NextGenerationEU, dentro do marco do [Proxecto Ilenia](https://proyectoilenia.es/) con referencia 2022/TL22/00215336. Tamén recibiu apoio desde o programa Investigo (PRTR - NextGenerationEU).
 
