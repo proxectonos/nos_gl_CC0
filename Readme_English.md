@@ -55,6 +55,8 @@ Subcorpus formed by 86.652 sentences extracted from the Costa da Morte Quepasana
 
 Subset of 28.051 sentences extracted from the definitions of terms published in the Dicionario da Real Academia (DRAG). 
 
+## Other resources
+Within the framework of ILENIA Project, the Proxecto Nós also participated in the creation of the multilingual Escagleu dataset, which can be consulted [here](https://huggingface.co/datasets/projecte-aina/escagleu-64k).
 
 ## Funding and Acknowledgments
 This dataset was produced within the framework of the Proxecto Nós, funded by the Ministry for Digital Transformation and Public Administration and the Recovery, Transformation, and Resilience Plan – Funded by the European Union – NextGenerationEU, as part of the [Ilenia Project](https://proyectoilenia.es/) with reference 2022/TL22/00215336. It also received support from the Investigo program (PRTR - NextGenerationEU).
