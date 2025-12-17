@@ -36,7 +36,7 @@ Corpus formed by 305.322 sentences collected by the Proxecto Nós from various s
 ### Corpus Mix Media
 
 More than 190.000 sentences extracted from publications ceded to the Proxecto Nós of the University of Santiago de Compostela through data transfer agreements:
-- 84.106 sentences from the Gran Enciclopedia Galega ceded by the Xunta de Galicia and from texts ceded by the [Consello da Cultura Galega](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_consello_da_cultura_galega.txt)..
+- 84.106 sentences from the Gran Enciclopedia Galega ceded by the Xunta de Galicia and from texts ceded by the [Consello da Cultura Galega](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_consello_da_cultura_galega.txt).
 - 7.388 sentences from novels ceded by the [Hugín & Muñín publisher](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_editorial_hugin_munin.txt).
 - 12.944 sentences from the publication ["Tempos Dixital" and the magazine "A Trabe de Ouro"](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_tempos_dixital_trabe_de_ouro.txt) ceded by the Atlántica Comunicación entity.
 - 28.949 sentences from publications ceded by the [Editorial Galaxia](https://github.com/proxectonos/nos_gl_CC0/blob/main/TXT/cv_editorial_galaxia.txt).
