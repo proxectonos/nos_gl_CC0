@@ -65,6 +65,4 @@ Agradecemos a amabilidade de todos os provedores de datos citados máis arriba e
 
 ## Citar este dataset
 Se usas este dataset, cítanos como se indica a continuación:
-Adina Ioana Vladu, Noelia García Díaz, Daniel Fernández López, Marta Vázquez Abuín, Patricia Ramos Maceiras, María Pérez Lago, María Janeiro Cerqueiro, Cristian Canosa Pérez, José Javier Francisco Marini, Elisa Fernández Rei (2025). nos_gl_CC0
-
-URL: (https://github.com/proxectonos/nos_gl_CC0)
+Adina Ioana Vladu, Noelia García Díaz, Daniel Fernández López, Marta Vázquez Abuín, Patricia Ramos Maceiras, María Pérez Lago, María Janeiro Cerqueiro, Cristian Canosa Pérez, José Javier Francisco Marini, Elisa Fernández Rei (2025). nos_gl_CC0 [Dataset]. URL: (https://github.com/proxectonos/nos_gl_CC0)
